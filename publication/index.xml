@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication-rsses on Gustavo Soares</title>
+    <link>gustavoasoares.github.io/publication/index.xml</link>
+    <description>Recent content in Publication-rsses on Gustavo Soares</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Gustavo Soares</copyright>
+    <lastBuildDate>Thu, 20 Apr 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Detecting overly strong preconditions in refactoring engines</title>
+      <link>/gustavoasoares.github.io/publication/tse_2017/</link>
+      <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/tse_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Syntactic Program Transformations from Examples</title>
+      <link>/gustavoasoares.github.io/publication/icse_2017/</link>
+      <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/icse_2017/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis</title>
+      <link>/gustavoasoares.github.io/publication/las_2017/</link>
+      <pubDate>Mon, 20 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/las_2017/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments</title>
+      <link>/gustavoasoares.github.io/publication/chi_lbw_2017/</link>
+      <pubDate>Mon, 20 Feb 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/chi_lbw_2017/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Interaction Models for Disambiguation in Programming-by-Example</title>
+      <link>/gustavoasoares.github.io/publication/uist_2015/</link>
+      <pubDate>Mon, 20 Apr 2015 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/uist_2015/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scaling Testing of Refactoring Tools</title>
+      <link>/gustavoasoares.github.io/publication/icsme_2014/</link>
+      <pubDate>Sun, 20 Apr 2014 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/icsme_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Behavioral Testing of Refactoring Engines</title>
+      <link>/gustavoasoares.github.io/publication/tse_2013/</link>
+      <pubDate>Sat, 20 Apr 2013 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/tse_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying overly strong conditions in refactoring implementations</title>
+      <link>/gustavoasoares.github.io/publication/icsm_2011/</link>
+      <pubDate>Wed, 20 Apr 2011 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/icsm_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Program Refactoring Safer</title>
+      <link>/gustavoasoares.github.io/publication/ieee_software_2010/</link>
+      <pubDate>Tue, 20 Apr 2010 12:00:00 +0000</pubDate>
+      
+      <guid>/gustavoasoares.github.io/publication/ieee_software_2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
